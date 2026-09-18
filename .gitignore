@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Local build/output folders
+dist/
+build/
+out/
